@@ -28,7 +28,7 @@ body {
 }
 
 .hero {
-  background: url("images/hero-bg.jpg") center center / cover no-repeat;
+  background: url("./images/hero-bg.jpg") center center / cover no-repeat;
 }
   color: white;
   padding: 80px 24px 64px;
@@ -111,5 +111,6 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
