@@ -28,8 +28,7 @@ body {
 }
  
 .hero {
-  position: relative; /* ensures overlays don't hide content */
-  background: url("images/hero-bg.jpg") center center / cover no-repeat;
+  background: url("./images/hero-bg.jpg") center center / cover no-repeat;
   text-align: center;
   padding: 56px 0;
 }
@@ -109,6 +108,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
 
