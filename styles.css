@@ -31,6 +31,7 @@ body {
   background: url("./images/hero-bg.jpg") center center / cover no-repeat;
   text-align: center;
   padding: 56px 0;
+  position: relative; /* for any overlays */
 }
 
 .hero h1 {
@@ -40,10 +41,19 @@ body {
   z-index: 2;
 }
 
+/* Updated tagline style */
 .tagline {
-  font-size: 1.25rem;
-  margin: 0 0 20px;
-  opacity: 0.95;
+  display: inline-block;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 10px 0 20px;
+  color: white;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.4); /* subtle dark overlay */
+  padding: 8px 16px;
+  border-radius: 8px;
+  position: relative;
+  z-index: 2;
 }
 
 .btn {
@@ -108,11 +118,3 @@ a {
 a:hover {
   text-decoration: underline;
 }
-
-
-
-
-
-
-
-
