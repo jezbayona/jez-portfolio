@@ -28,7 +28,7 @@ body {
 }
 
 .hero {
-  background: linear-gradient(135deg, var(--accent1), var(--accent2));
+  background: url("images/hero-bg.jpg") center center / cover no-repeat;
   color: white;
   padding: 80px 24px 64px;
   text-align: center;
@@ -110,3 +110,4 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
