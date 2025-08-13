@@ -37,12 +37,7 @@ body {
   border-bottom-right-radius: 40px;
 }
 
-.hero h1 
 .hero h1 {
-  color: white;
-  text-shadow: 0 2px 4px rgba(0,0,0,0.5);
-}
-{
   font-size: 3rem;
   margin: 0 0 12px;
   letter-spacing: -1px;
@@ -116,6 +111,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
 
