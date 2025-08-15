@@ -129,7 +129,9 @@ a:hover {
 
 .site-footer small {
   color: #000000 !important; /* black text */
+  font-weight: bold;
 }
+
 
 
 
