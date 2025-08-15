@@ -109,7 +109,7 @@ ul {
 }
 
 .site-footer {
-  background: var(--accent1);
+  background: var(black);
   color: white;
   padding: 18px 0;
   text-align: center;
@@ -126,6 +126,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
 
