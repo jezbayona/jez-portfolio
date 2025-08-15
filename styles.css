@@ -25,11 +25,6 @@ body {
   max-width: 960px;
   margin: 0 auto;
   padding: 24px;
-
-  background-image: url('images/background.jpg'); /* change this path if needed */
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
  
 .hero {
@@ -123,4 +118,5 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
