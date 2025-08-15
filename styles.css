@@ -127,6 +127,12 @@ a:hover {
   text-decoration: underline;
 }
 
+.site-footer small {
+  color: #000000 !important; /* black text */
+}
+
+
+
 
 
 
