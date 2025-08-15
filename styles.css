@@ -74,11 +74,10 @@ body {
 }
 
 .card {
-  background: var(--card);
-  border-radius: 16px;
-  padding: 32px;
-  margin-bottom: 24px;
-  box-shadow: 0 10px 24px rgba(0, 0, 0, 0.05);
+  background-image: url('images/background.jpg'); /* change this path if needed */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
 }
 
 .card h2 {
@@ -118,5 +117,6 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
