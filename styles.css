@@ -110,7 +110,7 @@ ul {
 
 .site-footer {
   background: var(black);
-  color: white;
+  color: black;
   padding: 18px 0;
   text-align: center;
   margin-top: 60px;
@@ -126,6 +126,7 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
 
 
 
