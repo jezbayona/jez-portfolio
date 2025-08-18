@@ -146,8 +146,9 @@ a:hover {
 
 @media (max-width: 600px) {
   .footer-container {
-    padding: 8px 12px;
-    font-size: 0.9rem;
+    padding: 4px 8px;
+    font-size: 0.85rem;
+    background: #e0e0e0;
   }
 }
 
@@ -155,6 +156,7 @@ a:hover {
   margin-top: 80px;
   padding-bottom: 20px;
 }
+
 
 
 
