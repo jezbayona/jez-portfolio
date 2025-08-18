@@ -133,12 +133,14 @@ a:hover {
 }
 
 .site-footer small {
+  background: #f1f1f1;
   color: #000000 !important;  /* Use #ffffff if you want white instead */
   font-weight: bold;          /* Makes the footer text bold */
   font-size: 1rem;            /* You can increase or decrease this */
   text-align: center;
   display: block;
 }
+
 
 
 
