@@ -92,14 +92,14 @@ html, body {
 .hero .btn {
   opacity: 0;
   animation: fadeIn 1.5s ease forwards;
-  animation-delay: 2s; /* show after tagline */
+  animation-delay: 1.5s; /* show after tagline */
 }
 
 /* About section fade in */
 .about {
   opacity: 0;
   animation: fadeIn 2s ease forwards;
-  animation-delay: 3s; /* show last */
+  animation-delay: 2s; /* show last */
 }
 
 /* Keyframes for fadeIn */
@@ -189,6 +189,7 @@ a:hover {
   margin-top: 80px;
   padding-bottom: 20px;
 }
+
 
 
 
