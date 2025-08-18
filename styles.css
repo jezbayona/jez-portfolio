@@ -144,6 +144,18 @@ a:hover {
   margin: 0 auto;
 }
 
+@media (max-width: 600px) {
+  .footer-container {
+    padding: 8px 12px;
+    font-size: 0.9rem;
+  }
+}
+
+.site-footer {
+  margin-top: 80px;
+  padding-bottom: 20px;
+}
+
 
 
 
